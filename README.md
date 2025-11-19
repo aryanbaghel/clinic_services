@@ -182,7 +182,7 @@ See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-> Made with 💙 by **Hridyansh Jha**
+> Made with 💙 by **Aryan Baghel**
 
 
 
